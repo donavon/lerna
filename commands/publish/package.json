@@ -49,7 +49,7 @@
     "@lerna/version": "file:../version",
     "fs-extra": "^6.0.1",
     "npm-package-arg": "^6.0.0",
-    "npmlog": "^4.1.2",
+    "npmlog": "^5.0.0",
     "p-finally": "^1.0.0",
     "p-map": "^1.2.0",
     "p-pipe": "^1.2.0",
