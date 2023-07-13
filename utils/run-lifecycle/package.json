@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "@lerna/npm-conf": "file:../npm-conf",
-    "npm-lifecycle": "^2.0.0",
+    "npm-lifecycle": "^3.0.0",
     "npmlog": "^4.1.2"
   }
 }
