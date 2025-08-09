@@ -30,7 +30,7 @@
     "test": "echo \"Run tests from root\" && exit 1"
   },
   "dependencies": {
-    "inquirer": "^5.1.0",
+    "inquirer": "^8.2.7",
     "npmlog": "^4.1.2"
   }
 }
