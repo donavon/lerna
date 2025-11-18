@@ -33,7 +33,7 @@
   "dependencies": {
     "@lerna/package": "file:../package",
     "@lerna/validation-error": "file:../validation-error",
-    "cosmiconfig": "^5.0.2",
+    "cosmiconfig": "^6.0.0",
     "dedent": "^0.7.0",
     "dot-prop": "^4.2.0",
     "glob-parent": "^3.1.0",
